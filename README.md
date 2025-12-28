@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a dedicated **Computer Science & Engineering undergraduate** with a strong interest in **Machine Learning, Data Mining, Artificial Intelligence, and Software Engineering**.  
+I am a dedicated **Computer Science & Engineering undergraduate** with a strong interest in **Machine Learning, Data Mining, Artificial Intelligence, and Web Programming**.  
 <br>
 I focus on building **robust, scalable, and data-driven solutions** through academic projects, research work, and practical implementations.
 <br><br>
