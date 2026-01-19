@@ -18,6 +18,8 @@ I am passionate about:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsakibhasan26) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/EMON-26) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdsakibhasanemon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://mdsakibhasanemon.netlify.app/)
+
 
 ---
 
