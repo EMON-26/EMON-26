@@ -39,11 +39,20 @@ I am passionate about:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 🧪 Software Testing & QA
+
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-grey?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test%20Case%20Design-blue?style=for-the-badge)
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-orange?style=for-the-badge)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-blue?style=for-the-badge)
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-red?style=for-the-badge)
 ![QA Documentation](https://img.shields.io/badge/Test%20Documentation-green?style=for-the-badge)
+
+#### 🔎 UNITY AID – QA Validation Portfolio
+
+| Artifact | Description | Link |
+|---|---|---|
+| Test Plan | Testing scope, strategy, and workflow | [View](https://github.com/EMON-26/unity-aid-testing/blob/main/test_plan.md) |
+| Test Cases (Excel) | Structured manual test cases | [View](https://github.com/EMON-26/unity-aid-testing/blob/main/Unity_Aid_Test_Cases.xlsx) |
+| Test Documentation (PDF) | Final testing report | [View](https://github.com/EMON-26/unity-aid-testing/blob/main/Unity_Aid_Test_Cases.pdf) |
 
 ### 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
