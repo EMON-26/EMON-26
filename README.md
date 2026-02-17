@@ -1,16 +1,19 @@
 # 💫 About Me:
 
-I am a dedicated **Computer Science & Engineering undergraduate** with a strong interest in **Machine Learning, Data Mining, Artificial Intelligence, and Web Programming**.  
+I am a dedicated **Computer Science & Engineering undergraduate** with strong interests in **Machine Learning, Data Mining, Artificial Intelligence, Software Testing (QA), and Web Programming**.  
 <br>
-I focus on building **robust, scalable, and data-driven solutions** through academic projects, research work, and practical implementations.
+I focus on building **robust, scalable, reliable, and data-driven systems** through academic projects, research work, and practical software development.
 <br><br>
+
 I am passionate about:
 <br>
+
 - Applying **Machine Learning & Data Mining techniques** to real-world problems  
+- Designing **reliable and well-tested software systems**  
 - Working with **data preprocessing, feature engineering, and model evaluation**  
-- Designing **efficient algorithms and intelligent systems**  
+- Performing **software testing, validation, and quality assurance**  
 - Writing **clean, maintainable, and optimized code**  
-- Continuously learning **modern AI technologies and research methodologies**
+- Continuously learning **modern AI technologies and software engineering best practices**
 
 ---
 
@@ -19,7 +22,6 @@ I am passionate about:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/EMON-26) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdsakibhasanemon@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://mdsakibhasanemon.netlify.app/)
-
 
 ---
 
@@ -36,6 +38,13 @@ I am passionate about:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### 🧪 Software Testing & QA
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-grey?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test%20Case%20Design-blue?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-orange?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-red?style=for-the-badge)
+![QA Documentation](https://img.shields.io/badge/Test%20Documentation-green?style=for-the-badge)
+
 ### 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,6 +59,21 @@ I am passionate about:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+## 🧪 Software Testing & QA Experience
+
+During development of **UNITY AID – Community Driven Emergency Helping Platform**, I contributed to software quality assurance by:
+
+- Designing and executing **manual test cases**
+- Performing **functional and usability testing**
+- Validating user workflows and system requirements
+- Documenting testing scenarios and QA reports
+- Identifying and reporting bugs to improve reliability
+
+🔗 QA Repository:  
+https://github.com/EMON-26/unity-aid-testing
 
 ---
 
@@ -71,9 +95,10 @@ I am passionate about:
 - NLP on Bangla–English Code-Mixed Text  
 - Transformer-Based Models  
 - Model Evaluation & Interpretability  
+- Software Reliability & Validation
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=EMON-26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly customized for ML & Research Profile -->
+<!-- ML + QA Hybrid Profile -->
